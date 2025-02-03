@@ -28,4 +28,5 @@ Create a class called Student in the ```Student.java``` file with the following 
 - Add a grade to the grades array.
 - Calculate and return the average grade.
 - Display all the Student's information (name, roll number, and grades).
+- 
 Write a main method in the ```StudentManagement.java``` file to create a Student object, add several grades, calculate and print the average grade, and display the Student's information.
