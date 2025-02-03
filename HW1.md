@@ -21,7 +21,7 @@ Define the following OOP concepts in your own words:
 - Access Modifiers (public, private, protected)
 
 ### Problem 7 (25 points)
-Write a Java program that takes two integer inputs from the user and prints the larger of the two numbers. Use a conditional statement (if-else).
+Write a Java program in ```LargerNumber.java``` that takes two integer inputs from the user and prints the larger of the two numbers. Use a conditional statement (if-else).
 
 ### Problem 8 (40 points)
 Create a class called Student with the following attributes: name (String), rollNumber (int), and grades (an array of integers).  Include a constructor to initialize the name and roll number.  Implement methods to:
